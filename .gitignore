@@ -2,3 +2,7 @@
 *.xlsx
 *.docx
 notes.md
+*.dSYM
+*.vscode
+*.clang-format
+.vscode
